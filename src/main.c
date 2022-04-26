@@ -1,8 +1,7 @@
 #include "stm8s.h"
 #include "milis.h"
-#include "spse_stm8.h"
 /*#include "delay.h"*/
-
+#include "adc_helper.h"
 #include <stdio.h>
 #include "stm8s_adc2.h"
 #include "uart1.h"
